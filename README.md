@@ -4,8 +4,9 @@
 
 ### Welcome to my profile! 
 
-- 🔭 I’m currently working on <a href="https://www.jamtangan.com/">@machtwatch</a>
-- 🌱 I’m currently learning about Software Development
+- 👨‍ I’m currently working on <a href="https://www.jamtangan.com/">@machtwatch</a>
+- 📖 I’m currently learning about Software Development
+- 🖋 I'm also like to sharing all about software development at <a href="https://asdamgrimson.medium.com/">Medium</a> 
 - 📫 How to reach me: asdamgrimson@gmail.com
 
 ### Tech Stack
